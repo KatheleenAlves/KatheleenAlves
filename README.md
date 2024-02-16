@@ -1,5 +1,5 @@
 - 👋 Olá, eu sou @KatheleenAlves
-- 💞️ Estou compartilhando meu portifólio de programação em Python, JavaScript, <a src="https://katheleenalves.github.io/html-css/">HTML5 e CSS3<a>. Fique à vontade para olhar!
+- 💞️ Estou compartilhando meu portifólio de programação em Python, JavaScript, <a href="https://katheleenalves.github.io/html-css/">HTML5 e CSS3<a>. Fique à vontade para olhar!
 
 
 <!---
