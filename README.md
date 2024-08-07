@@ -1,5 +1,5 @@
 - 👋 Olá, eu sou @KatheleenAlves
-- 💞️ Estou compartilhando meu portifólio em <a href="https://katheleenalves.github.io/html-css/"  target="blank">HTML5 e CSS3</a>, <a href="https://github.com/KatheleenAlves/python" target="blank">Python</a>, <a href="https://katheleenalves.github.io/javascript/"  target="blank">JavaScript</a>, <a href="https://katheleenalves.github.io/type-script/"  target="blank">TypeScript</a>. Fique à vontade para olhar!
+- 💞️ Estou compartilhando meu portifólio em <a href="https://katheleenalves.github.io/html-css/"  target="blank">HTML5 e CSS3</a>, <a href="https://github.com/KatheleenAlves/python" target="blank">Python</a>, <a href="https://katheleenalves.github.io/javascript/"  target="blank">JavaScript</a>, <a href="https://github.com/KatheleenAlves/type-script"  target="blank">TypeScript</a>. Fique à vontade para olhar!
 
 
 <!---
